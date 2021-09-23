@@ -1,7 +1,3 @@
-# hello-world
 hi humans
- we are here
-what the fuck is going on
-JVM
-Javescript
-so much
+i am asked to write a bit about myself
+i dont know anything about coding
